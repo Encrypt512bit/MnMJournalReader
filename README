@@ -2,6 +2,8 @@
 
 A desktop application for reading and searching through conversation logs from the game "Monsters and Memories".
 
+![Main application interface](screenshots/main-interface.png)
+
 ## Overview
 
 MnM Journal Reader provides an easy way to browse and search through your in-game conversations with NPCs. The application automatically locates your game's journal files and allows you to explore conversations by character and NPC.
@@ -9,10 +11,18 @@ MnM Journal Reader provides an easy way to browse and search through your in-gam
 ## Features
 
 - **Character Selection**: Choose from all your game characters
+  ![Character selection dropdown](screenshots/character-selection.png)
+  
 - **NPC Filtering**: View conversations with specific NPCs
+  ![NPC filtering](screenshots/npc-filtering.png)
+  
 - **Searchable Logs**: Search for specific text within the current NPC's logs
 - **Global Search**: Search for text across all NPCs for the selected character
+  ![Search functionality](screenshots/search-feature.png)
+  
 - **Sortable Entries**: Click column headers to sort by date, NPC name, or message content
+  ![Sortable columns](screenshots/sorting-columns.png)
+  
 - **Clean Interface**: Simple, easy-to-use design that displays conversations clearly
 
 ## How to Use
@@ -20,6 +30,7 @@ MnM Journal Reader provides an easy way to browse and search through your in-gam
 1. **Launch the Application**: Open MnM Journal Reader
 2. **Select a Character**: Choose one of your game characters from the dropdown
 3. **Choose an NPC**: Select an NPC to view your conversations with them
+   ![Conversation view](screenshots/conversation-view.png)
 4. **Search**: Use the search box to find specific conversations
    - Click "Search Current NPC" to search only within the current NPC's logs
    - Click "Search All NPCs" to find matching conversations across all NPCs
