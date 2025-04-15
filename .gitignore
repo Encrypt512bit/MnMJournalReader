@@ -1,0 +1,12 @@
+# .NET Core
+bin/
+obj/
+scripts/
+*.user
+*.suo
+*.pdb
+*.cache
+*.dll
+*.exe
+*.csproj.user
+/Publish/
