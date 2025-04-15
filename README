@@ -11,17 +11,17 @@ MnM Journal Reader provides an easy way to browse and search through your in-gam
 ## Features
 
 - **Character Selection**: Choose from all your game characters
-  [Character selection dropdown](screenshots/character-selection.png)
+  ![Character selection dropdown](screenshots/character-selection.png)
   
 - **NPC Filtering**: View conversations with specific NPCs
-  [NPC filtering](screenshots/npc-filtering.png)
+  ![NPC filtering](screenshots/npc-filtering.png)
   
 - **Searchable Logs**: Search for specific text within the current NPC's logs
 - **Global Search**: Search for text across all NPCs for the selected character
-  [Search functionality](screenshots/search-feature.png)
+  ![Search functionality](screenshots/search-feature.png)
   
 - **Sortable Entries**: Click column headers to sort by date, NPC name, or message content
-  [Sortable columns](screenshots/sorting-columns.png)
+  ![Sortable columns](screenshots/sorting-columns.png)
   
 - **Clean Interface**: Simple, easy-to-use design that displays conversations clearly
 
