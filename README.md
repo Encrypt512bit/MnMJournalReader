@@ -35,7 +35,6 @@ You can download the fully compiled version of MnM Journal Reader here:
 1. **Launch the Application**: Open MnM Journal Reader
 2. **Select a Character**: Choose one of your game characters from the dropdown
 3. **Choose an NPC**: Select an NPC to view your conversations with them
-   ![Conversation view](screenshots/conversation-view.png)
 4. **Search**: Use the search box to find specific conversations
    - Click "Search Current NPC" to search only within the current NPC's logs
    - Click "Search All NPCs" to find matching conversations across all NPCs
