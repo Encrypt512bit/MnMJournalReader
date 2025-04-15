@@ -8,6 +8,11 @@ A desktop application for reading and searching through conversation logs from t
 
 MnM Journal Reader provides an easy way to browse and search through your in-game conversations with NPCs. The application automatically locates your game's journal files and allows you to explore conversations by character and NPC.
 
+## Download
+
+You can download the fully compiled version of MnM Journal Reader here:
+[Download MnM Journal Reader](https://drive.google.com/file/d/10IaIHM4sQkjCbHKQlK9kMtNuj9XcMFlR/view?usp=drive_link)
+
 ## Features
 
 - **Character Selection**: Choose from all your game characters
