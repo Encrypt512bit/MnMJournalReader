@@ -1,0 +1,47 @@
+# MnM Journal Reader
+
+A desktop application for reading and searching through conversation logs from the game "Monsters and Memories".
+
+## Overview
+
+MnM Journal Reader provides an easy way to browse and search through your in-game conversations with NPCs. The application automatically locates your game's journal files and allows you to explore conversations by character and NPC.
+
+## Features
+
+- **Character Selection**: Choose from all your game characters
+- **NPC Filtering**: View conversations with specific NPCs
+- **Searchable Logs**: Search for specific text within the current NPC's logs
+- **Global Search**: Search for text across all NPCs for the selected character
+- **Sortable Entries**: Click column headers to sort by date, NPC name, or message content
+- **Clean Interface**: Simple, easy-to-use design that displays conversations clearly
+
+## How to Use
+
+1. **Launch the Application**: Open MnM Journal Reader
+2. **Select a Character**: Choose one of your game characters from the dropdown
+3. **Choose an NPC**: Select an NPC to view your conversations with them
+4. **Search**: Use the search box to find specific conversations
+   - Click "Search Current NPC" to search only within the current NPC's logs
+   - Click "Search All NPCs" to find matching conversations across all NPCs
+
+## Technical Details
+
+- The application automatically looks for journal files in:
+  ```
+  %LocalAppData%\..\LocalLow\Niche Worlds Cult\Monsters and Memories\journal\
+  ```
+- Log entries are parsed and displayed with timestamps, NPC names, and conversation text
+- Entries can be sorted by clicking column headers
+
+## Requirements
+
+- Windows operating system
+- .NET Runtime
+- "Monsters and Memories" game with journal entries
+
+## Troubleshooting
+
+If no characters or NPCs appear:
+- Ensure you have played "Monsters and Memories" and have conversation logs
+- Check if the journal directory exists at the expected location
+- The application requires at least one character folder with NPC log files
